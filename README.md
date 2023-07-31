@@ -1,4 +1,3 @@
-# Begin-Automation
-How to begin life automation
+# Beginning Automation
 
-Starting with how to learn coding 
+The creation of time consuming tasks that can be completed with automation through strategic coding and programming to then be duplicated.
